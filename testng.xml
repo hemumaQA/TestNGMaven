@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "All Test suite">
+    <test name = "AddNumbersTest">
+    <classes>
+        <class name="Basic.AddNumbersTest" >    </class>
+    </classes>
+</test>
+</suite>
